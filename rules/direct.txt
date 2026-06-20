@@ -30947,6 +30947,7 @@ domain:douyongtuan.com
 domain:douyou100.com
 domain:douyu.com
 domain:douyu.tv
+domain:douyuedui.com
 domain:douyuex.com
 domain:douyuscdn.com
 domain:douyutv.com
@@ -43747,6 +43748,8 @@ domain:haimawan.com
 domain:haimeec.com
 domain:haimi.com
 domain:haimian.com
+domain:haimianbandstatic.com
+domain:haimianyinyue.com
 domain:haimin.net
 domain:haimini.com
 domain:haimosic.com
@@ -98991,6 +98994,7 @@ domain:xcrmyy.com
 domain:xcsc.com
 domain:xcstuido.com
 domain:xcsyy.com
+domain:xcthings.com
 domain:xctmr.com
 domain:xcultur.com
 domain:xcurrency.com
@@ -100408,6 +100412,7 @@ domain:xinghaoyun8.com
 domain:xinghejoy.com
 domain:xinghengedu.com
 domain:xingheoa.com
+domain:xinghewanglu.com
 domain:xinghuaport.com
 domain:xinghuazixun.com
 domain:xinghuo100.com
@@ -107928,6 +107933,8 @@ domain:zabxib.com
 domain:zac1993.com
 domain:zachina.org
 domain:zack.asia
+domain:zaconad.com
+domain:zaconbs.com
 domain:zadervice.com
 domain:zaduonews.com
 domain:zaecu.com
